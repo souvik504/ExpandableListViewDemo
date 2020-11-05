@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Expandable ListView</string>
+    <string-array name="hdd">
+        <item>Alu</item>
+        <item>Su</item>
+        <item>Sh</item>
+        <item>Sa</item>
+        <item>Al</item>
+        <item>Ku</item>
+        <item>Du</item>
+        <item>Bu</item>
+        <item>Alu</item>
+        <item>Su</item>
+        <item>Sh</item>
+        <item>Sa</item>
+        <item>Al</item>
+        <item>Ku</item>
+        <item>Du</item>
+        <item>Bu</item>
+        <item>Alu</item>
+        <item>Su</item>
+        <item>Sh</item>
+        <item>Sa</item>
+        <item>Al</item>
+        <item>Ku</item>
+        <item>Du</item>
+        <item>Bu</item>
+    </string-array>
+    <string-array name="hdd1">
+        <item>Arithmetic logic unit\n\n bnbzuxhjknxxoixnanoinx\nxnbyabnx</item>
+        <item>Souvik</item>
+        <item>souvik halder</item>
+        <item>Saaaaa</item>
+        <item>Alss</item>
+        <item>Kulna</item>
+        <item>Dhaka</item>
+        <item>Buss</item>
+        <item>Arithmetic logic unit\n\n bnbzuxhjknxxoixnanoinx\nxnbyabnx</item>
+        <item>Souvik</item>
+        <item>souvik halder</item>
+        <item>Saaaaa</item>
+        <item>Alss</item>
+        <item>Kulna</item>
+        <item>Dhaka</item>
+        <item>Buss</item>
+        <item>Arithmetic logic unit\n\n bnbzuxhjknxxoixnanoinx\nxnbyabnx</item>
+        <item>Souvik</item>
+        <item>souvik halder</item>
+        <item>Saaaaa</item>
+        <item>Alss</item>
+        <item>Kulna</item>
+        <item>Dhaka</item>
+        <item>Buss</item>
+    </string-array>
+</resources>
